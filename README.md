@@ -1,7 +1,3 @@
-[![Packagist](https://img.shields.io/packagist/dt/AkshyaraaIt/Rpclient.svg)](https://packagist.org/packages/AkshyaraaIt/Rpclient)
-[![Packagist](https://img.shields.io/packagist/v/AkshyaraaIt/Rpclient.svg)](https://packagist.org/packages/AkshyaraaIt/Rpclient)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/mhi9388?locale.x=en_US)
-
 
 ![alt text](https://banners.beyondco.de/RPClient.png?theme=dark&packageName=AkshyaraaIt%2Frpclient&pattern=cage&style=style_1&description=It+is+simple+wrapper+class+written+in+php+to+ease+use+of+RaudhahPay+Payment+Gateway&md=1&fontSize=100px&images=cash)
 
