@@ -1,8 +1,5 @@
 
 
-![alt text](https://banners.beyondco.de/RPClient.png?theme=dark&packageName=AkshyaraaIt%2Frpclient&pattern=cage&style=style_1&description=It+is+simple+wrapper+class+written+in+php+to+ease+use+of+RaudhahPay+Payment+Gateway&md=1&fontSize=100px&images=cash)
-
-
 # Raudhah Pay Client Library using PHP Framework
 
 It is simple wrapper class written in php to ease use of [RaudhahPay Payment Gateway](https://www.raudhahpay.com/) 
