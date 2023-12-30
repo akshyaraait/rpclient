@@ -1,3 +1,7 @@
+[![GitHub tag](https://badgen.net/github/tag/akshyaraait/laravel-fcm-notification)](https://github.com/akshyaraait/laravel-fcm-notification/releases)
+[![Packagist](https://badgen.net/packagist/v/akshyaraait/laravel-fcm-notification)](https://packagist.org/packages/akshyaraait/laravel-fcm-notification)
+[![Downloads](https://badgen.net/packagist/dt/akshyaraait/laravel-fcm-notification)](https://packagist.org/packages/akshyaraait/laravel-fcm-notification)
+[![License](https://badgen.net/packagist/license/akshyaraait/laravel-fcm-notification)](https://packagist.org/packages/akshyaraait/laravel-fcm-notification)
 
 ![alt text](https://banners.beyondco.de/RPClient.png?theme=dark&packageName=AkshyaraaIt%2Frpclient&pattern=cage&style=style_1&description=It+is+simple+wrapper+class+written+in+php+to+ease+use+of+RaudhahPay+Payment+Gateway&md=1&fontSize=100px&images=cash)
 
